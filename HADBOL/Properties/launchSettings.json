@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HADBOL": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\test programs\\test1.bol\""
+    }
+  }
+}

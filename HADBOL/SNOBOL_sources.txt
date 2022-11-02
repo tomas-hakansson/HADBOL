@@ -1,0 +1,15 @@
+﻿# This is a list of the sources I used to figure out how SNOBOL works and looks:
+    http://www.math.bas.bg/bantchev/place/snobol.html //page with general information.
+    http://www.math.bas.bg/bantchev/place/snobol/vtutor/contents.htm
+    http://www.math.bas.bg/bantchev/place/snobol/vrefman/contents.htm //Vanilla SNOBOL4 reference manual.
+    https://www.j-paine.org/dobbs/arbno.html
+    http://www.j-paine.org/dobbs/snobol_foot.html
+    http://www.j-paine.org/dobbs/snobol_one_liner.html
+    http://berstis.com/s4ref/pats3b.htm
+    https://try-mts.com/snobol-language-features/
+    http://berstis.com/s4ref/sntx3a.htm //this has a formal description of the syntax.
+    https://science.jrank.org/programming/StringOriented_Symbolic_Langua.html
+    http://berstis.com/greenbook.pdf //the full specification I think, or at least a thorough manual.
+    http://www.sachsdavis.clara.net/Snobol4Pdoc.html //documentation for SNOBOL4+, an enhanced version of SNOBOL.
+    NOTE: SPITBOL extensions.
+    https://en.wikipedia.org/wiki/Markov_algorithm
